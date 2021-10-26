@@ -1,14 +1,17 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn }) => await conn.sendButtonLoc(m.chat, await (await fetch(fla + 'donasi')).buffer(), `
-┌〔 Donasi • Emoney 〕
-├ Pulsa:-08998512588
-├ OVO:-08998512588
-├ Dana:-08998512588
-├Transfer uangnya pakai DANA aja. 
-├Lebih praktis, transfer di sini ya
-├ https://link.dana.id/qr/fkno783
+┌〔 Donasi • support 〕
+├ cukup gunakan saia dengan 
+├ bijak 😀
+├
+├ https://saweria.co/Doraemond
+├
+├ saya harap kamu menyukai bot 
+├ saya dan jangan lupa untuk 
+├ mensupport saya karena saya 
+├ sangat menyukai Dora :D
 └────
-`.trim(), watermark, 'Donasi', '.donasi', m)
+`.trim(), '© Doraemond', 'Donasi', '.donasi', m)
 handler.help = ['donasi']
 handler.tags = ['info']
 handler.command = /^dona(te|si)$/i
