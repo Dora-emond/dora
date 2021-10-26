@@ -30,7 +30,6 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-  'https://server-api-rey.herokuapp.com
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://neoxr-api.herokuapp.com': 'yntkts',
@@ -39,11 +38,6 @@ global.APIKeys = { // APIKey nya disini
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
-  'https://api.lolhuman.xyz': 'apikey lu',
-  'https://api.vhtear.com': 'apikey lu',
-  'https://fxc7-api.herokuapp.com': 'apikey lu',
-  'https://api.justaqul.xyz': 'apikey lu'
-  'https://leyscoders-api.herokuapp.com': 'MIMINGANZ' 
 }
 
 // Sticker WM
