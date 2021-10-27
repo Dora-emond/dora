@@ -203,94 +203,94 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "description": "Menampilkan semua perintah bot",
                   "rowId": ".? all"
                 }, {
-                  "title": "🎮 ㋛ Game",
-                  "description": "Menu game",
+                  "title": "🎮 ㋛ game",
+                  "description": "All game",
                   "rowId": ".? game"
 
                 }, {
                   "title": "💳 ㋛ XP",
-                  "description": "Menu Xp",
+                  "description": "XP pemakain Bot",
                   "rowId": ".? xp"
 
                 }, {
-                  "title": "Stiker",
-                  "description": "",
+                  "title": "🖼 ㋛ Stiker",
+                  "description": "maker stiker",
                   "rowId": ".? stiker"
                 }, {
-                  "title": "Kerang Ajaib",
-                  "description": "",
+                  "title": "🐚 ㋛ Kerang Ajaib",
+                  "description": "Ask something question",
                   "rowId": ".? kerangajaib"
                 }, {
-                  "title": "Quotes",
-                  "description": "",
+                  "title": "📝 ㋛ Quotes",
+                  "description": "Kata-kata bijak",
                   "rowId": ".? quotes"
                 }, {
-                  "title": "Admin",
-                  "description": "",
+                  "title": "🕴 ㋛ Admin",
+                  "description": "Para elite tapi bukan mastah ㋛",
                   "rowId": ".? admin"
                 }, {
-                  "title": "Grup",
-                  "description": "",
+                  "title": "👥 ㋛ Grup",
+                  "description": "Using di Grup doang anjir",
                   "rowId": ".? grup"
                 }, {
-                  "title": "Premium",
-                  "description": "",
+                  "title": "💎 ㋛ Premium",
+                  "description": "wow para elite ⚡",
                   "rowId": ".? premium"
                 }, {
-                  "title": "Internet",
-                  "description": "",
+                  "title": "📡 ㋛ Internet",
+                  "description": "expression your u want",
                   "rowId": ".? internet"
                 }, {
-                  "title": "Anonymous",
-                  "description": "",
+                  "title": "❓ ㋛ Anonymous",
+                  "description": "hacker anjir 😱",
                   "rowId": ".? anonymous"
                 }, {
-                  "title": "Nulis & Logo",
-                  "description": "",
+                  "title": "✏ ㋛ Nulis & Logo",
+                  "description": "Make a tulisan",
                   "rowId": ".? nulis"
                 }, {
-                  "title": "Downloader",
-                  "description": "",
+                  "title": "📥 ㋛ Downloader",
+                  "description": "Mengunduh ",
                   "rowId": ".? downloader"
                 }, {
-                  "title": "Tools",
-                  "description": "",
+                  "title": "🛠 ㋛ Tools",
+                  "description": "Reparations",
                   "rowId": ".? tools"
                 }, {
-                  "title": "Fun",
-                  "description": "",
+                  "title": "😋 ㋛ Fun ",
+                  "description": "Bebas ngapain aja",
                   "rowId": ".? fun"
                 }, {
-                  "title": "Database",
-                  "description": "",
+                  "title": "🗂 ㋛ Database",
+                  "description": "Data base bot",
                   "rowId": ".? database"
                 }, {
-                  "title": "Vote & Absen",
-                  "description": "",
+                  "title": "☑ ㋛ vote & Absen",
+                  "description": "isi absen dulu anjir",
                   "rowId": ".? vote"
                 }, {
-                  "title": "Al-Qur\'an",
-                  "description": "",
+                  "title": "😊😇 Al-Qur\'an",
+                  "description": "Mengaji",
                   "rowId": ".? quran"
                 }, {
-                  "title": "Pengubah Suara",
-                  "description": "",
+                  "title": "〰🎵 ㋛ Pengubah Suara",
+                  "description": "Manipulation your voice",
                   "rowId": ".? audio"
                 }, {
-                  "title": "Jadi Bot",
-                  "description": "",
+                  "title": "🗿 ㋛ Jadi Bot",
+                  "description": "Jangan di pake cape gua ",
                   "rowId": ".? jadibot"
                 }, {
-                  "title": "Info",
-                  "description": "",
+                  "title": "ℹℹ ㋛ info",
+                  "description": "information ",
                   "rowId": ".? info"
                 }, {
-                  "title": "Tanpa Kategori",
-                  "description": "",
+                  "title": "⁉ ㋛ Tanpa Kategori",
+                  "description": "serah lu mau ngapain anjir",
                   "rowId": ".? tanpakategori"
                 }, {
-                  "title": "Owner",
-                  "description": "",
+                  "title": "👺 ㋛ Owner",
+                  "description": "Menu mastah",
                   "rowId": ".? owner"
                 }
               ]
