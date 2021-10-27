@@ -199,11 +199,11 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `Semua Perintah`,
+                  "title": `📜|Semua Perintah`,
                   "description": "",
                   "rowId": ".? all"
                 }, {
-                  "title": "Game",
+                  "title": "🎮|Game",
                   "description": "",
                   "rowId": ".? game"
 
