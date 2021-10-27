@@ -199,17 +199,17 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `📜|Semua Perintah`,
-                  "description": "",
+                  "title": `📜 ㋛ Semua Perintah`,
+                  "description": "Menampilkan semua perintah bot",
                   "rowId": ".? all"
                 }, {
-                  "title": "🎮|Game",
-                  "description": "",
+                  "title": "🎮 ㋛ Game",
+                  "description": "Menu game",
                   "rowId": ".? game"
 
                 }, {
-                  "title": "XP",
-                  "description": "",
+                  "title": "💳 ㋛ XP",
+                  "description": "Menu Xp",
                   "rowId": ".? xp"
 
                 }, {
